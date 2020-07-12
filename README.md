@@ -8,9 +8,7 @@ Fluffy chat is a Chat App made with Dart
 - Beautiful UI with nice and cool animation.
 - Offline Capabilities.
 - Navigation between diffrent screens and categories using  Provider .
-- Live chat .
-- Add items to your shopping cart and save them for later.
-- Manage your cart , edit and delete your orders list.
+- Live chat.
 
 # ScreenShots:
 <img src="Images/1.jpeg" width="280" height="580"> <img src="Images/2.jpeg" width="280" height="580"> <img src="Images/3.jpeg" width="280" height="580">
